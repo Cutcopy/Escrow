@@ -12,8 +12,8 @@ description: Beats, Rhymths, life
 client:
   market:
   name:
-  brand:
-  brokerage:
+  brand: '#'
+  brokerage: '#'
   address:
   phone:
   email:
